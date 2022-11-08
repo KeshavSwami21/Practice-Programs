@@ -6,7 +6,6 @@ class C_P:
 
     def Input(self):
         N = int(input("Enter the first number: "))
-
         M = int(input("Enter the second number: "))
     
         C_P.coprime(N, M)
